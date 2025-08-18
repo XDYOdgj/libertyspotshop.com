@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://libertyspotshop.com/sitemap.xml
